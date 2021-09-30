@@ -1,0 +1,19 @@
+#one-id {
+	color: #c0cbff;
+	font-size: 36px;
+}
+
+#two-id {
+	background-color: #cbffc0;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.odd {
+	background-color: #ffc0cb;
+	font-family: Verdana, sans-serif;
+}
+
+.cooler {
+	font-size: 24px;
+}
