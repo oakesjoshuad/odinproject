@@ -1,0 +1,19 @@
+* {
+	font-family: Verdana, "Courier New", sans-serif;
+	color: #2e3440;
+}
+
+img {
+	height: auto;
+	width: 200px;
+}
+
+h1 {
+	text-align: center;
+	background-color: #d8dee9;
+}
+
+h2 {
+	background-color: #e5e9f0;
+}
+
